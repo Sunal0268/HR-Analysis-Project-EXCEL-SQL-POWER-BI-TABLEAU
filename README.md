@@ -42,4 +42,5 @@ This project focuses on HR attrition analysis to understand employee turnover pa
 6. Attrition significantly decreases for employees aged 45+
 
 Gdrive: https://drive.google.com/drive/folders/1mdr7P5QkwZBIX6RZIBbryECc9z75KNYZ?usp=drive_link
+
 Tableau : https://public.tableau.com/app/profile/sunal.singh
