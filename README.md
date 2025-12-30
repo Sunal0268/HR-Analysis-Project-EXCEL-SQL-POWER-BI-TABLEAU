@@ -1,7 +1,5 @@
 HR Analytics Dashboard | Attrition Analysis | EXCEL-SQL-TABLEAU-POWER BI
 
-~ Project Overview
-
 This project focuses on HR attrition analysis to understand employee turnover patterns, identify high-risk groups, and uncover key factors influencing attrition such as age, department, gender, education, and job satisfaction. The dashboards helps HR teams make data-driven retention decisions.
 
 ~ Attrition Highlights
